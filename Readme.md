@@ -69,17 +69,17 @@ https://github.com/vicky-510/A-Software-System-for-Integrated-Food-Ordering-and-
  
  
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vwaran)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-chidambaram-r)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ## Author
-- [@Vigneshwaran M](https://www.github.com/vicky-510)
+- [Github@ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
 
 
 ## Support
 
-For support, email vignesh510510@gmail.com or join our Telegram Group.
+For support, email vishnuhero2001@gmail.com or join our Telegram Group.
 
 
 
