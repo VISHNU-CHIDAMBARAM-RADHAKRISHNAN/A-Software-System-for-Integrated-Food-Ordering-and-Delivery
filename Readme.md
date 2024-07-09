@@ -77,7 +77,7 @@ To run this Project you need to first download and install the following Require
 
 ## Support
 
-For support, email vishnuchidambarampmv@gmail.com or join our Telegram Group.
+For support, email  [vishnuchidambarampmv@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZXhxqkhNvDkxJRvFVstNGbTDrvkNQJZznBgLCPsblXkQdXRRCfjzqWxxZmBGBkqCHxLrg)  or join our Telegram Group.
 
 
 
